@@ -1,0 +1,60 @@
+div {
+  display: block;
+  margin: 2em 2em;
+}
+
+/* Cuadrado rojo+amarillo+morado*/
+.red {
+  background: red;
+  height:200px;
+  position: relative;
+  width: 200px;
+}
+
+.purple {
+  background: purple;
+  height:100px;
+  left: 50px;
+  margin: unset;
+  position: absolute;
+  top: 50px;
+  width: 100px;
+}
+
+.yellow {
+  background: yellow;
+  height: 50px;  
+  left: 50px;
+  margin: unset;
+  position: absolute;
+  top: 50px;
+  width: 50px;
+}
+
+/* Cuadrado azul+negro+verde*/
+.blue {
+  background: blue;
+  height: 200px;
+  position: relative;
+  width: 200px;
+}
+
+.green {
+  background: green;
+  height:100px;
+  left: 50px;
+  margin: unset;
+  position: absolute;
+  top: 50px;
+  width: 100px;
+}
+
+.black {
+  background: black;
+  height: 50px;  
+  left: 0;
+  margin: unset;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
